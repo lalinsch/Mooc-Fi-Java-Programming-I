@@ -1,0 +1,5 @@
+application/AverageSensor.class
+application/Program.class
+application/Sensor.class
+application/TemperatureSensor.class
+application/StandardSensor.class
