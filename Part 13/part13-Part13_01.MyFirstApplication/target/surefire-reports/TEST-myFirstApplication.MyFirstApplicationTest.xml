@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="myFirstApplication.MyFirstApplicationTest" time="1.223" tests="2" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="14"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/Users/laloschjetnan/Developer/NetBeansProjects/mooc-java-programming-ii/part13-Part13_01.MyFirstApplication/target/test-classes:/Users/laloschjetnan/Developer/NetBeansProjects/mooc-java-programming-ii/part13-Part13_01.MyFirstApplication/target/classes:/Users/laloschjetnan/.m2/repository/junit/junit/4.12/junit-4.12.jar:/Users/laloschjetnan/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/laloschjetnan/.m2/repository/fi/helsinki/cs/tmc/edu-test-utils/0.4.2/edu-test-utils-0.4.2.jar:/Users/laloschjetnan/.m2/repository/org/testfx/testfx-junit/4.0.15-alpha/testfx-junit-4.0.15-alpha.jar:/Users/laloschjetnan/.m2/repository/org/testfx/testfx-core/4.0.15-alpha/testfx-core-4.0.15-alpha.jar:/Users/laloschjetnan/.m2/repository/org/assertj/assertj-core/3.11.1/assertj-core-3.11.1.jar:/Users/laloschjetnan/.m2/repository/org/testfx/openjfx-monocle/8u76-b04/openjfx-monocle-8u76-b04.jar:/Users/laloschjetnan/.m2/repository/org/openjfx/javafx-controls/11/javafx-controls-11.jar:/Users/laloschjetnan/.m2/repository/org/openjfx/javafx-controls/11/javafx-controls-11-mac.jar:/Users/laloschjetnan/.m2/repository/org/openjfx/javafx-graphics/11/javafx-graphics-11.jar:/Users/laloschjetnan/.m2/repository/org/openjfx/javafx-graphics/11/javafx-graphics-11-mac.jar:/Users/laloschjetnan/.m2/repository/org/openjfx/javafx-base/11/javafx-base-11.jar:/Users/laloschjetnan/.m2/repository/org/openjfx/javafx-base/11/javafx-base-11-mac.jar:"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="java.vm.specification.version" value="14"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="GB"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-14.0.1.jdk/Contents/Home/lib"/>
+    <property name="sun.java.command" value="/Users/laloschjetnan/Developer/NetBeansProjects/mooc-java-programming-ii/part13-Part13_01.MyFirstApplication/target/surefire/surefirebooter10497466612142007445.jar /Users/laloschjetnan/Developer/NetBeansProjects/mooc-java-programming-ii/part13-Part13_01.MyFirstApplication/target/surefire 2020-07-27T17-13-46_918-jvmRun1 surefire4210635991454356435tmp surefire_08367060814880266750tmp"/>
+    <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/Users/laloschjetnan/Developer/NetBeansProjects/mooc-java-programming-ii/part13-Part13_01.MyFirstApplication/target/test-classes:/Users/laloschjetnan/Developer/NetBeansProjects/mooc-java-programming-ii/part13-Part13_01.MyFirstApplication/target/classes:/Users/laloschjetnan/.m2/repository/junit/junit/4.12/junit-4.12.jar:/Users/laloschjetnan/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/laloschjetnan/.m2/repository/fi/helsinki/cs/tmc/edu-test-utils/0.4.2/edu-test-utils-0.4.2.jar:/Users/laloschjetnan/.m2/repository/org/testfx/testfx-junit/4.0.15-alpha/testfx-junit-4.0.15-alpha.jar:/Users/laloschjetnan/.m2/repository/org/testfx/testfx-core/4.0.15-alpha/testfx-core-4.0.15-alpha.jar:/Users/laloschjetnan/.m2/repository/org/assertj/assertj-core/3.11.1/assertj-core-3.11.1.jar:/Users/laloschjetnan/.m2/repository/org/testfx/openjfx-monocle/8u76-b04/openjfx-monocle-8u76-b04.jar:/Users/laloschjetnan/.m2/repository/org/openjfx/javafx-controls/11/javafx-controls-11.jar:/Users/laloschjetnan/.m2/repository/org/openjfx/javafx-controls/11/javafx-controls-11-mac.jar:/Users/laloschjetnan/.m2/repository/org/openjfx/javafx-graphics/11/javafx-graphics-11.jar:/Users/laloschjetnan/.m2/repository/org/openjfx/javafx-graphics/11/javafx-graphics-11-mac.jar:/Users/laloschjetnan/.m2/repository/org/openjfx/javafx-base/11/javafx-base-11.jar:/Users/laloschjetnan/.m2/repository/org/openjfx/javafx-base/11/javafx-base-11-mac.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/Users/laloschjetnan"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2020-04-14"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk-14.0.1.jdk/Contents/Home"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/Users/laloschjetnan/Developer/NetBeansProjects/mooc-java-programming-ii/part13-Part13_01.MyFirstApplication"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="surefire.real.class.path" value="/Users/laloschjetnan/Developer/NetBeansProjects/mooc-java-programming-ii/part13-Part13_01.MyFirstApplication/target/surefire/surefirebooter10497466612142007445.jar"/>
+    <property name="jdk.net.URLClassPath.disableClassPathURLCheck" value="true"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.runtime.version" value="14.0.1+7"/>
+    <property name="user.name" value="laloschjetnan"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="10.15.6"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="/Users/laloschjetnan/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="/var/folders/6p/g9btgd6d4_3dwdgzcry9zjnm0000gn/T/"/>
+    <property name="java.version" value="14.0.1"/>
+    <property name="user.dir" value="/Users/laloschjetnan/Developer/NetBeansProjects/mooc-java-programming-ii/part13-Part13_01.MyFirstApplication"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.library.path" value="/Users/laloschjetnan/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="14.0.1+7"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
+    <property name="java.class.version" value="58.0"/>
+  </properties>
+  <testcase name="titleIsCorrect" classname="myFirstApplication.MyFirstApplicationTest" time="0.841"/>
+  <testcase name="windowOpens" classname="myFirstApplication.MyFirstApplicationTest" time="0.269"/>
+</testsuite>
